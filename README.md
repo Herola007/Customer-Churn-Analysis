@@ -17,6 +17,18 @@ A bar chart was created to show the total customers by creditworthiness. The cha
 A pie chart was created to display the total number of customers with credit cards. The chart shows that 5,151 customers held credit cards, with a total account balance of €390.8M and a churn rate of 14.27%. On the other hand, 4,849 customers did not have credit cards, with an account balance of €374M and a significantly higher churn rate of 26.85%. I also created a column chart to show the total number of customers by their status, indicating whether they were active or inactive. The chart reveals that there are 5,151 active customers, while 4,849 customers are classified as inactive, with a churn rate of 26.85%.
 
 
-### Sway Bank Churn Dashboard
-![Churn Dashboard](
+### Sway Bank Inc. Churn Dashboard
+![Churn Dashboard](https://github.com/Herola007/Customer-Churn-Analysis/blob/main/Churn%20Dashboard.png?raw=true)
+Now, let’s dive into the main focus of this analysis. I found that 2,037 customers have churned from Sway Bank. These churned customers had an average tenure of 4.93 years, an average credit score of 645, and a total account balance of €185.59 million.
+#### Key Insights
+I created a bar chart to show the total churned customers by country. This chart shows that Germany had the highest number of churned customers totaling 814 customers with a total account balance of €98M and an average tenure of 5 years followed by France who had a total churned customers of 810 with an account balance of €57.7M and an average tenure of 5 years. Moreover Spain had the lowest number of churned customers with a value of 413 churned customers having a total account balance of €30M and an average tenure of 4.66 years. Distribution of churned customers was also shown using a pie chart, this chart shows that the bank had a high percent of churned customers with a value of 55.92% and the value for male churned customers was 44.08%. 
+
+I went further to create a column chart to show the distribution of churned customers by age bracket. The chart created showed that middle aged customers within the age range of 40-49 had the highest number of churned customers with a value of 806 customers followed by Senior customers whose ages were above 50 had a total churned customers of 634 customers. The adult customers whose age range was between 18-39 had a total of 597 churned customers which was the lowest among other age brackets.
+
+The analysis further revealed that customers with credit cards had a lower churn rate (36.08%) compared to those without credit cards, who had a significantly higher churn rate of 68.92%. Moreover, the dashboard showed that customers with fair and poor credit scores were more likely to leave the bank, while those with excellent credit scores were less likely to churn. 
+
+The number of product shows the number of bank product the customer uses, the products includes credit card, savings account and the likes. The analysis shows that the more product a customer uses the less likely they are to churn but the less products a customer uses the more they are likely to churn. 
+
+### Sway Bank Inc. Customer Status Dashboard
+![Customer Status](
 
