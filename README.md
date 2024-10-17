@@ -41,6 +41,10 @@ The analysis also included a column chart revealing customer status by gender. T
 ### Recommendation
 Since customers with credit cards have a significantly lower churn rate (36.08%) compared to those without (68.92%), Sway Bank should actively encourage customers to obtain credit cards. Offering tailored credit card benefits or incentives could further enhance customer engagement and retention. The analysis also shows that customers with fair or poor credit scores are more likely to churn. Sway Bank should introduce personalized credit improvement programs, offering financial literacy, credit-building products, and more favorable terms for customers at risk. This would not only help reduce churn but also strengthen customer loyalty.
 
+Sway Bank Inc. should investigate the specific reasons behind the higher churn rate among female customers. Create tailored financial products and services that cater to women’s unique financial needs, such as family planning loans, savings plans for education, or business loans for female entrepreneurs. In addition, targeted campaigns focusing on financial wellness for women could help bridge the churn gap.
+
+Ensuring that all customers, especially those at higher risk of churning, receive excellent customer support. The bank should also develop proactive customer service strategies like personalized communications, periodic financial check-ins, and robust digital support options such as chatbots or virtual assistants. Offering tailored advice and support can improve overall customer satisfaction and reduce churn rates.
+
 
 
 
