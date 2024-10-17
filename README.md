@@ -30,5 +30,5 @@ The analysis further revealed that customers with credit cards had a lower churn
 The number of product shows the number of bank product the customer uses, the products includes credit card, savings account and the likes. The analysis shows that the more product a customer uses the less likely they are to churn but the less products a customer uses the more they are likely to churn. 
 
 ### Sway Bank Inc. Customer Status Dashboard
-![Customer Status](
+![Customer Status](https://github.com/Herola007/Customer-Churn-Analysis/blob/main/Customer%20Status.png?raw=true)
 
